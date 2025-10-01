@@ -28,7 +28,7 @@
 ---
 
 ### ⚙ IDE and Tools I use:
-![Vivado](https://img.shields.io/badge/Vivado-FF6600?logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FF6600?logo=java&logoColor=white)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-E01F27?logo=xilinx&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)
 ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-1E90FF?logo=codeforces&logoColor=white)
