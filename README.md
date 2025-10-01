@@ -3,7 +3,7 @@
 🚀 Passionate Embedded Systems & VLSI Enthusiast | Electronics & Communication Engineer | 2022 - 2026  
 
 - 💬 Ask me about *Verilog, VLSI, Digital Electronics, FPGA, SoC, IoT*  
-- 📫 How to reach me: *kgorajanal@gmail.com*
+- 📫 How to reach me: *vikaspapti033@gmail.com*
 
 ---
 
