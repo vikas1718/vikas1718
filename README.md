@@ -17,18 +17,18 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/kiran-gorajanal](https://www.linkedin.com/in/kiran-gorajanal-168b3622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Instagram](https://skillicons.dev/icons?i=instagram)]([https://www.instagram.com/kiran_gorajanal](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
 
-
 ### 💻 I Code In:
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+
 
 ---
 
