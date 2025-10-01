@@ -1,8 +1,8 @@
 # Hi 👋, I'm VIKAS SP
 
-🚀 Passionate Embedded Systems & VLSI Enthusiast | Electronics & Communication Engineer | 2022 - 2026  
+🚀 Passionate Software Developer | Computer Science Enthusiast | 2023 - 2027  
 
-- 💬 Ask me about *Verilog, VLSI, Digital Electronics, FPGA, SoC, IoT*  
+- 💬 Ask me about Web Development, Databases, AI, Machine Learning, Python, Java, and Flutter
 - 📫 How to reach me: *vikaspapti033@gmail.com*
 
 ---
