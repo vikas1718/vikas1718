@@ -18,23 +18,25 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)]([https://www.instagram.com/kiran_gorajanal](https://www.instagram.com/kiran_gorajanal?igsh=MW11Nmhyd3I0dnZjZQ==))
 
 
-### 💻 I code in:
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-007ACC?logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?logoColor=white)
+### 💻 I Code In:
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
 
 ---
 
-### ⚙ IDE and Tools I use:
-![Vivado](https://img.shields.io/badge/Vivado-FF6600?logo=java&logoColor=white)
-![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-E01F27?logo=xilinx&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?logo=intel&logoColor=white)
-![EDA Playground](https://img.shields.io/badge/EDA%20Playground-1E90FF?logo=codeforces&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-25A162?logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white)
-![Keil uVision](https://img.shields.io/badge/Keil_uVision-00A9E0?logo=arm&logoColor=white)
+### ⚙️ IDEs & Tools I Use:
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/XAMPP-F37623?logo=xampp&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+
 
 
 ---
